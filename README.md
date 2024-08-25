@@ -1,0 +1,2 @@
+# Message-Encode-Decode-Application-Using-Tkinter-and-Vigen-re-Cipher
+ This project involves the development of a simple yet functional GUI application using Python's Tkinter library. The application will provide an interface for users to encode and decode messages using the Vigenère cipher, a method of encrypting text by using a series of different Caesar ciphers based on the letters of a keyword.
